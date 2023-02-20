@@ -1,6 +1,6 @@
-# Code & Data for "Optimal Public Expenditure with Inefficient Unemployment"
+# Optimal Public Expenditure with Inefficient Unemployment: Code and Data
 
-This repository contains the code and data associated with the article ["Optimal Public Expenditure with Inefficient Unemployment"](https://www.pascalmichaillat.org/6.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economic Studies](https://doi.org/10.1093/restud/rdy030) in May 2019. 
+This repository contains the code and data accompanying the article ["Optimal Public Expenditure with Inefficient Unemployment"](https://pascalmichaillat.org/6/), written by [Pascal Michaillat](https://pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economic Studies](https://doi.org/10.1093/restud/rdy030) in May 2019. 
 
 ## Figure 3
 
@@ -23,6 +23,10 @@ the business cycle. The simulation procedure is described in section 5.
 * The script compares three public-expenditure policies: G/Y is constant at 16.5%, its average value in the United States for 1990-2014; G/Y is given by sufficient-statistic formula (23) (a first-order approximation to the optimal policy); and G/Y is at its optimal level, where it satisfies equation (18).
 * Last the script produces the four panels of figure 4: `figure4A.pdf`, `figure4B.pdf`, `figure4C.pdf`, `figure4D.pdf`.
 
-## Software versions
+## Software
 
 The results were obtained on a Mac running macOS High Sierra with Matlab R2017a.
+
+## License
+
+The content of this repository is licensed under the terms of the MIT License.
